@@ -8,6 +8,6 @@ The folowing pictures show the ZVS Driver PCB testing. The first oscilloscope im
 
 ![ZVS2](https://github.com/user-attachments/assets/d7d04dbf-3325-40b6-89c9-b12a14eb0e36)
 
-![SDS00078](https://github.com/user-attachments/assets/492a6419-c3ad-436b-ba1e-4d8b517d7f30)\
+![SDS00078](https://github.com/user-attachments/assets/492a6419-c3ad-436b-ba1e-4d8b517d7f30)
 
 ![ZVS3](https://github.com/user-attachments/assets/e4df3d84-a0eb-4d0f-b4d7-a900ea0345b2)
